@@ -26,7 +26,6 @@ Derived from the core logic of [this tutorial](https://www.bilibili.com/video/BV
 * **Audio:** Integrated background music for different game states. (为不同场景添加背景音乐)
 * **Code Refactoring:** Fixed multiple bugs and optimized state management. (修复 Bug 并优化状态管理)
 
----
 
 ## 📂 Project Structure | 文件结构
 * `main.py`: Entry point; manages window lifecycle. (程序入口，管理窗口生命周期)

@@ -11,7 +11,7 @@ This project marks the very beginning of my coding journey and my passion for so
 **In fact, I have dreamed of becoming a game developer since high school.** Now, as a **Chemistry major**, I am channeling that same creative spark into **AI for Science (AI4S)** to explore the intersection of code and molecules.
 
 这个项目标志着我编程之路的开端，也是我开发热情的起点。
-事实上，我从高中开始就想成为一名游戏开发者。** 如今作为一名**化学专业**的学生，我正将这份热情投入到 AI for Science
+事实上，我从高中开始就想成为一名游戏开发者。如今作为一名**化学专业**的学生，我正将这份热情投入到 AI for Science
 ---
 
 ## ✨ New Features | 新增特性

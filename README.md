@@ -38,8 +38,7 @@ Derived from the core logic of [this tutorial](https://www.bilibili.com/video/BV
 
 ## 🛠️ How to Run | 如何运行
 ### 1. Pre-built Executable (Windows)
-Double-click the `.exe` file in the folder (packaged via Pyinstaller). 
-**Note:** Do not move the executable out of the folder, as it relies on local `assets/` (images/music).
+Double-click the `.exe` file in Release (packaged via Pyinstaller). 
 
 ### 2. Run from Source
 Ensure you have Python and Pygame installed:

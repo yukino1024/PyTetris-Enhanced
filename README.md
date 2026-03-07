@@ -1,10 +1,6 @@
 # Pygame Tetris (Enhanced Version)
 *A customized Tetris implementation with extended features and optimized logic.*
 
-## 📌 Introduction | 项目介绍
-This is a desktop mini-game built with **Python** and the **Pygame** library. It features a complete game loop, UI systems, and customized game logic.
-
-本项目是基于 Pygame 开发的俄罗斯方块增强版，实现了完整的游戏循环、UI 系统及优化的逻辑判定。
 
 ## 🌱 My Programming Enlightenment | 编程启蒙
 
@@ -15,6 +11,11 @@ This project marks the very beginning of my coding journey and my passion for so
 事实上，我从高中开始就想成为一名游戏开发者。如今作为一名**化学专业**的学生，我正将这份热情投入到 AI for Science，探索代码与分子世界的交汇点。
 
 ---
+
+## 📌 Introduction | 项目介绍
+This is a desktop mini-game built with **Python** and the **Pygame** library. It features a complete game loop, UI systems, and customized game logic.
+
+本项目是基于 Pygame 开发的俄罗斯方块增强版，实现了完整的游戏循环、UI 系统及优化的逻辑判定。
 
 ## ✨ New Features | 新增特性
 Derived from the core logic of [this tutorial](https://www.bilibili.com/video/BV19u4y1B7br/), I have implemented the following enhancements:

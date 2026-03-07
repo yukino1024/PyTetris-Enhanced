@@ -8,6 +8,7 @@ This is a desktop mini-game built with **Python** and the **Pygame** library. It
 
 ## 🌱 My Programming Enlightenment | 编程启蒙
 
+---
 This project marks the very beginning of my coding journey and my passion for software development. 
 **In fact, I have dreamed of becoming a game developer since high school.** Now, as a **Chemistry major**, I am channeling that same creative spark into **AI for Science (AI4S)** to explore the intersection of code and molecules.
 

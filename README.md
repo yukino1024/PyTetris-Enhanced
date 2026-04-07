@@ -49,6 +49,8 @@ pip install pygame
 
 python main.py
 
+```
+
 ## 🛠️ Environment | 环境
 * **Python 3.8**
 * **Pygame**

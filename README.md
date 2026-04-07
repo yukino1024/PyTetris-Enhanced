@@ -18,6 +18,7 @@ A desktop mini-game built with **Python** and **Pygame**, focusing on robust gam
 
 ## ✨ Key Enhancements | 技术亮点
 Derived from core logic, I implemented the following professional software features:
+
 在基础逻辑之上，我独立实现了以下工程化改进：
 * **Advanced Collision & Rotation:** Refined movement constraints using coordinate-based validation. (优化了基于坐标验证的移动与旋转判定)
 * **Modular UI System:** Built dedicated screens for Start, Game Over, and Pausing. (构建了独立的开始、结束及暂停 UI 系统)
@@ -29,6 +30,24 @@ Derived from core logic, I implemented the following professional software featu
 * `game.py`: Core game loop and logic controller. (核心逻辑控制器)
 * `block.py` & `blockGroup.py`: OOP implementation for tetrominoes. (方块及其组合的类实现)
 * `menu.py`: UI & Navigation system. (菜单与导航系统)
+
+## 🛠️ How to Run | 如何运行
+
+### 1. Pre-built Executable (Windows)
+
+Double-click the `.exe` file in Release (packaged via Pyinstaller). 
+
+
+
+### 2. Run from Source
+
+Ensure you have Python and Pygame installed:
+
+```bash
+
+pip install pygame
+
+python main.py
 
 ## 🛠️ Environment | 环境
 * **Python 3.8**

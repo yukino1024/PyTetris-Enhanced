@@ -7,6 +7,7 @@ This project marks the very beginning of my coding journey. Although I am a **Ch
 本项目标志着我编程之路的开端。作为一名化学专业的学生，我通过复现并增强经典游戏来磨练编程技能。目前，我正将这份热情转化为 **AI for Science** 的动力。
 
 > 🏆 **Achievement:** Earned a perfect score of **100/100** in my freshman Python programming course.
+> 很高兴凭借这个课程设计，我在大一的 Python 课程获得了 **100分** 
 
 ---
 

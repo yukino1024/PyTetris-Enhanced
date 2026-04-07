@@ -30,5 +30,5 @@ Derived from core logic, I implemented the following professional software featu
 * `menu.py`: UI & Navigation system. (菜单与导航系统)
 
 ## 🛠️ Environment | 环境
-* **Python 3.x**
+* **Python 3.8**
 * **Pygame**

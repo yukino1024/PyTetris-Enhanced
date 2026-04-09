@@ -7,6 +7,7 @@ This project marks the very beginning of my coding journey. In fact, I have drea
 这个项目标志着我编程之路的开端。事实上，我从高中开始就想成为一名游戏开发者。如今作为一名化学专业的学生，我希望将这份热情投入到 **AI for Science**，探索代码与分子世界的交汇点。
 
 > 🏆 **Achievement:** Earned a perfect score of **100/100** in my freshman Python programming course.
+
 > 很高兴凭借这个课程设计，我在大一的 Python 课程获得了 **100分** 
 
 ---

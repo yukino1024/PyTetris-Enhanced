@@ -7,8 +7,8 @@ This project marks the very beginning of my coding journey. In fact, I have drea
 这个项目标志着我编程之路的开端。事实上，我从高中开始就想成为一名游戏开发者。如今作为一名化学专业的学生，我希望将这份热情投入到 **AI for Science**，探索代码与分子世界的交汇点。
 
 > 🏆 **Achievement:** Earned a perfect score of **100/100** in my freshman Python programming course.
-
-> 很高兴凭借这个课程设计，我在大一的 Python 课程获得了 **100分** 
+> 
+> 很高兴凭借这个课程设计，我在大一的 Python 课程获得了 **100分**。
 
 ---
 
@@ -18,12 +18,13 @@ A desktop mini-game built with **Python** and **Pygame**, focusing on robust gam
 本项目是基于 Pygame 开发的俄罗斯方块增强版，重点展示了完整的游戏循环设计与模块化的代码结构。
 
 ## ✨ Key Enhancements | 技术亮点
-Derived from core logic, I implemented the following professional software features:
+Derived from [core logic](https://www.bilibili.com/video/BV19u4y1B7br/?spm_id_from=333.337.search-card.all.click&vd_source=72d3c0ffef11c04f7fd24bcf9ed10cb5), I implemented the following professional software features:
 
-在基础逻辑之上，我独立实现了以下工程化改进：
+在[基础逻辑](https://www.bilibili.com/video/BV19u4y1B7br/?spm_id_from=333.337.search-card.all.click&vd_source=72d3c0ffef11c04f7fd24bcf9ed10cb5)之上，我独立实现了以下工程化改进：
+
 * **Advanced Collision & Rotation:** Refined movement constraints using coordinate-based validation. (优化了基于坐标验证的移动与旋转判定)
 * **Modular UI System:** Built dedicated screens for Start, Game Over, and Pausing. (构建了独立的开始、结束及暂停 UI 系统)
-* **OOP Architecture:** Refactored procedural code into Object-Oriented classes (Block, Group, Game). (利用面向对象思想重构代码结构)
+* **OOP Architecture:** Refactored procedural code into Object-Oriented classes (`Block`, `Group`, `Game`). (利用面向对象思想重构代码结构)
 * **State Management:** Fixed multiple logic bugs to ensure seamless state transitions. (修复多项逻辑缺陷并优化状态机管理)
 
 ## 📂 Project Structure | 文件结构
@@ -35,19 +36,13 @@ Derived from core logic, I implemented the following professional software featu
 ## 🛠️ How to Run | 如何运行
 
 ### 1. Pre-built Executable (Windows)
-
-Double-click the `.exe` file in Release (packaged via Pyinstaller). 
-
-
+Double-click the `.exe` file in Release (packaged via **Pyinstaller**). 
 
 ### 2. Run from Source
-
 Ensure you have Python and Pygame installed:
 
 ```bash
-
 pip install pygame
-
 python main.py
 
 ```
